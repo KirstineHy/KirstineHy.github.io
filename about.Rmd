@@ -4,4 +4,10 @@ title: "About me"
 
 ## Kirstine Mejlstrup Hymøller
 
-PhD student at department of Biomedicine, Aarhus University
+PhD student at Department of Biomedicine, Aarhus University
+
+***
+
+### New Header
+
+*Assignment for a R course*
