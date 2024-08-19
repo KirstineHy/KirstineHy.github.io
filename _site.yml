@@ -1,7 +1,7 @@
-name: "YOURNAME"                                # CHANGE HERE 
+name: "YOURNAME"                                # Kirstine Hymøller
 output_dir: "."
 navbar:
-  title: "YOURNAME"                             # CHANGE HERE 
+  title: "YOURNAME"                             # Kirstine Hymøller 
   type: inverse
   left:
     - text: "Home"
